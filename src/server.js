@@ -20,7 +20,7 @@ const port = process.env.PORT || process.env.NODE_PORT || 3000;
 
 // start the server and listen for HTTP traffic
 // why do we need request and response here usually if we don't
-// use both**
+// use both
 // how does it know to display things on the browser
 // if there are no return statements**
 // the request and response objects contain all the information
